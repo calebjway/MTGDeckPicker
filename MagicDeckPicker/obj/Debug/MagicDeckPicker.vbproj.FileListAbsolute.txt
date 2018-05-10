@@ -1,0 +1,1 @@
+c:\users\administrator\documents\visual studio 2013\Projects\MagicDeckPicker\MagicDeckPicker\bin\Debug\MagicDeckPicker.exe.config
